@@ -1,6 +1,0 @@
-music_app/
-│
-├── models.py         ← Todas as classes ORM aqui
-├── db.py             ← Conexão com o banco
-├── main.py           ← Exemplo de criação de tabelas e inserção
-├── requirements.txt  ← Dependências
