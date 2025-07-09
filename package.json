@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "consulta1": "node consulta1.js",
+    "consulta2": "node consulta2.js",
+    "consulta3": "node consulta3.js"
   },
   "keywords": [],
   "author": "",
